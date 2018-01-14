@@ -1,6 +1,8 @@
 # hello-world
 Pharma Profiling
-Removed extra spaces in the file, unecessary abbreviations, gramatical errors
-updated the information which is not relevant anymore
-removed teh redundant data
-checked for teh duplicates
+
+2 new competitive brands launched for the same therapeutics in last 5 years
+
+the patent for our brand expires in next 2 years
+
+there is negative shift in the mindset of opinion leaders about our product in the last quarter of this year
